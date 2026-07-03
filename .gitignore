@@ -4,7 +4,8 @@
 *.so
 *.dylib
 main/main
-url-shortener
+tasks.db
+task
 
 # Тесты
 *.test
