@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github/morazss/cli-task-manager/cmd"
-	"github/morazss/cli-task-manager/db"
 	"os"
 	"path/filepath"
+	"task/cmd"
+	"task/db"
 
 	"github.com/mitchellh/go-homedir"
 )
