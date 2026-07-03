@@ -15,6 +15,7 @@ coverage.*
 # Go workspace (если не используешь — не мешает)
 go.work
 go.work.sum
+go.mod
 
 # Секреты/конфиги
 .env
